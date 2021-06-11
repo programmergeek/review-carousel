@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto&display=swap');
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+h2, h3{
+    font-family: 'Roboto', sans-serif;
+}
+
+h3{
+    color: rgb(0, 47, 149);
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+}
+
+button{
+    background-color: white;
+    border: none;
+    color: rgb(0, 47, 149);
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+button:disabled{
+    color: black;
+}
+
+button:hover{
+    text-decoration: underline;
+}
+
+.carousel{
+    display: grid;
+    grid-template-columns: 350px auto;
+    padding: 1%;
+    border-radius: 2px;
+    max-width: 700px;
+    height: 400px;
+    box-shadow:
+  0 0px 3.4px rgba(0, 0, 0, 0.042),
+  0 0px 8.1px rgba(0, 0, 0, 0.061),
+  0 0px 15.3px rgba(0, 0, 0, 0.075),
+  0 0px 27.3px rgba(0, 0, 0, 0.089),
+  0 0px 51px rgba(0, 0, 0, 0.108),
+  0 0px 122px rgba(0, 0, 0, 0.15)
+;
+
+}
+
+#img{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    margin-top: 50px;
+}
+
+.nav{
+    display: flex;
+    position: static;
+    margin-left: 50px;
+}
