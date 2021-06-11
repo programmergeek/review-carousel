@@ -1,12 +1,12 @@
 const people = [
     {
-        img: "https://i1.wp.com/thatrandomagency.com/wp-content/uploads/2020/05/Lauren_headshot.png?resize=640%2C873&ssl=1",
+        img: "https://lh3.googleusercontent.com/proxy/NXKEkTw-aKbLX5tt4y8AMO-E8oNysAu3Yi0bFLncisO61Gcs-4nDCocAS7_dFg3X9R3_-OvM4ve7o4pUevAKbKfOGvdk7SSSlBI8RtNXhDaCyk9YSNEbCKGCnkmNoH6U1YIkOmf5",
         name: "Sammy",
         title: "Lead Engineer",
         about: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. "
     },
     {
-        img: "https://images.unsplash.com/photo-1463453091185-61582044d556?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        img: "https://www.generatorslist.com/public/img/people/billionaires/tadashi-yanai-thumb.jpg",
         name: "Adam",
         title: "HR Manager",
         about: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui"
