@@ -34,13 +34,24 @@ button:hover{
     text-decoration: underline;
 }
 
+button:disabled{
+    cursor: not-allowed;
+    text-decoration: none;
+}
+
 .carousel{
     display: grid;
     grid-template-columns: 350px auto;
     padding: 1%;
-    border-radius: 2px;
-    max-width: 700px;
-    max-height: 600px;
+    padding-left: 20px;
+    padding-right: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    max-width: fit-content;
+    max-height: fit-content;
     box-shadow:
   0 0px 3.4px rgba(0, 0, 0, 0.042),
   0 0px 8.1px rgba(0, 0, 0, 0.061),
